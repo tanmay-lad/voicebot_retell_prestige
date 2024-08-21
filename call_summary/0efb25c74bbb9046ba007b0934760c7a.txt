@@ -1,0 +1,14 @@
+**Call Summary:**
+* **Contact Number:** +919273105931
+* **Disconnection reason:** user_hangup
+Here is a concise summary of the conversation:
+
+**Customer Details:** Rahul
+
+**Queries/Doubts:** None
+
+**Action Taken/Promised:** None
+
+**Possible Reasons for Not Completing Payment:** Customer not interested, purchased iPhone instead
+
+**Conversation Summary:** Rahul visited Samsung's official website but didn't complete the payment. He's not interested and has purchased an iPhone instead.

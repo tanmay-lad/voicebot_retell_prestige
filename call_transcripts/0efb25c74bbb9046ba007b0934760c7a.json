@@ -1,0 +1,26 @@
+[
+    {
+        "role": "assistant",
+        "content": "नमस्ते, मैं Samsung India से पूजा बोल रही हूँ। क्या मेरी बात राहुल जी से हो रही है?"
+    },
+    {
+        "role": "user",
+        "content": "हां बोलिए."
+    },
+    {
+        "role": "assistant",
+        "content": "मैं देख रही हूँ कि आपने Samsung Official Website पर विजिट किया"
+    },
+    {
+        "role": "user",
+        "content": "I am not interested at I have purchased iPhone."
+    },
+    {
+        "role": "user",
+        "content": "you."
+    },
+    {
+        "role": "assistant",
+        "content": "जी"
+    }
+]
