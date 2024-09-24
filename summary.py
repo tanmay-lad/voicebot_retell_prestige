@@ -12,7 +12,8 @@ load_dotenv()
 
 def get_system_prompt():
     system_prompts_folder = 'system_prompts_summary/'
-    system_prompts_file = os.path.join(system_prompts_folder, "prestige.txt")
+    # system_prompts_file = os.path.join(system_prompts_folder, "prestige.txt")
+    system_prompts_file = os.path.join(system_prompts_folder, "ujjivan.txt")
     
     conversation_history = []
     
